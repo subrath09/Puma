@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+* {
+    font-family: Jost;
+    margin: 0px;
+    padding: 0px;
+}
